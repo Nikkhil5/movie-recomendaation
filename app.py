@@ -31,5 +31,5 @@ if st.button('Recommend'):
     for i in recommendations:
         st.write(i)
 
-theme = st.radio("Choose theme", options=["Light", "Dark"])
+
 
